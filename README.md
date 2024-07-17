@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software domain
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on decent projects
-- 📫 How to reach me via my gmail 
+- 📫 Reach me out via my gmail 
 
 <!---
 Somya617/Somya617 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
